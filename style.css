@@ -1,0 +1,91 @@
+.title {
+font-weight: 400;
+font-family: Roboto;
+}
+.container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+}
+div {
+    display: block;
+}
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+.color-panel cobalt {
+    box-shadow: 5px 10px;
+}
+.cobalt {
+    background-color: #0047AB;
+    color: #fff;
+}
+.cinnamon {
+    background-color: #D2691E;
+    color: #fff;
+}
+.purple {
+    background-color: #420052;
+    color: #fff;
+}
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+.roboto {
+    font-family: 'roboto';
+    text-decoration-line: underline;
+}
+.thin-100-roboto {
+    font-family: 'roboto';
+    font-weight: 100;
+}
+.thin-100-italic-roboto {
+    font-family: 'roboto';
+    font-weight: 100;
+    font-style: italic;
+}  
+.bold-700-roboto {
+    font-family: 'roboto';
+    font-weight: 700;
+}
+.raleway {
+    font-family: 'raleway';
+    text-decoration-line: underline;
+    font-weight: 100;
+}
+.thin-100-raleway {
+    font-family: 'raleway';
+    font-weight: 100;
+}
+.thin-100-italic-raleway {
+    font-family: 'raleway';
+    font-weight: 100;
+    font-style: italic;
+}  
+.bold-300-raleway {
+    font-family: 'raleway';
+    font-weight: 300;
+}
+.work-sans {
+    font-family: 'work sans';
+    text-decoration-line: underline;
+    font-weight: 100;
+}
+.regular-400-work-sans {
+    font-family: 'work sans';
+    font-weight: 400;
+}
+.medium-500-italic-work-sans {
+    font-family: 'work sans';
+    font-weight: 500;
+    font-style: italic;
+}  
+.extrabold-800-work-sans {
+    font-family: 'work sans';
+    font-weight: 800;
+}
